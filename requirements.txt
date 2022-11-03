@@ -91,6 +91,7 @@ watchdog
 wcwidth
 webencodings
 widgetsnbextension
+wordcloud
 wrapt
 xgboost
 zipp
