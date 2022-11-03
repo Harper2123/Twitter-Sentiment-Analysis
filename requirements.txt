@@ -49,6 +49,7 @@ nest-asyncio
 notebook
 numpy
 oauthlib
+openpyxl
 packaging
 pandas
 pandocfilters
@@ -81,6 +82,8 @@ six
 sklearn
 statsmodels
 streamlit
+time
+tqdm
 tweepy
 textblob
 typed-ast
