@@ -69,7 +69,6 @@ pyparsing
 pyrsistent
 PySocks
 python-dateutil
-pywinpty
 pyzmq
 requests
 requests-oauthlib
