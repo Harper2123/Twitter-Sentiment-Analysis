@@ -1,3 +1,4 @@
+pip==22.3
 altair
 argon2-cffi
 astor
