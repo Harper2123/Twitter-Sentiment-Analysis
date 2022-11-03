@@ -82,7 +82,6 @@ six
 sklearn
 statsmodels
 streamlit
-time
 tqdm
 tweepy
 textblob
