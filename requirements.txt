@@ -77,7 +77,6 @@ s3transfer
 scikit-learn
 scipy
 seaborn
-search
 Send2Trash
 six
 sklearn
