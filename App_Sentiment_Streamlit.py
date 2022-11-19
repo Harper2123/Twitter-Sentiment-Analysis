@@ -151,7 +151,7 @@ def main():
         if st.button("Get Count Plot for Different Sentiments"):
             st.success("Generating A Count Plot")
             st.subheader(" Count Plot for Different Sentiments")
-            st.write(sns.countplot(df["Sentiment"]))
+            st.write(sns.countplot(x=df["Sentiment"]))
             st.pyplot()
         
         # Piechart 
