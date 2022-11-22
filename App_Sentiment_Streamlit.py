@@ -170,7 +170,7 @@ def main():
         if st.button("Get Count Plot Based on Verified and unverified Users"):
             st.success("Generating A Count Plot (Verified and unverified Users)")
             st.subheader(" Count Plot for Different Sentiments for Verified and unverified Users")
-            st.write(sns.countplot(df["Sentiment"],hue=df.IsVerified))
+            st.write(sns.countplot(x=df["Sentiment"],hue=df.IsVerified))
             st.pyplot()
         
         
@@ -230,7 +230,7 @@ def main():
 
 
 
-    if st.button("Exit"):
+    if st.button("Submit"):
         st.balloons()
 
 
